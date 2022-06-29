@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(61, 233, 136);
+}
+.Topheader {
+  text-align: center;
+  background-color: rgb(105, 221, 105);
+  width: 80%;
+  max-width: 960px;
+  margin: 50px auto;
+  border-radius: 7px;
+}
+header {
+  line-height: 50px;
+}
+h1 {
+  font-family: "Bungee";
+}
+h5 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h4 {
+  font-family: "Bungee", cursive;
+  font-size: 21px;
+  padding: 6px;
+}
+h4 #CurrentTime {
+  font-size: 36px;
+  display: block;
+  padding: 7px 0px;
+}
+body {
+  font: 14px/26px "Bungee", Helvetica Arial, sans-serif;
+  color: palevioletred;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.Timer {
+  text-align: center;
+  background-color: papayawhip;
+  max-width: 960%;
+  width: 90%;
+  border-radius: 3rem;
+  margin: auto;
+}
+h4 {
+  font-size: 30px;
+  font-family: "Bungee" cursive;
+}
+
+#Birthdayimage {
+  display: none;
+}
+
+#birthday {
+  font-size: 25px;
+  font-weight: 10rem;
+}
